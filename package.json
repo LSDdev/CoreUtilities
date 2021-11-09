@@ -1,10 +1,15 @@
 {
   "name": "fi.uniarts.lsd.core",
-  "displayName": "Core scripts for LSD tools",
-  "version": "1.0.0",
+  "displayName": "Core scripts for Uniarts LSD tools",
+  "version": "1.0.1",
   "unity": "2019.3",
   "keywords": [],
-  "description": "Core dependencies that other LSD created tools require",
-  "dependencies": {},
-  "relatedPackages":{}
+  "description": "Core dependencies that other Uniarts LSD created tools require",
+  "license": "MIT-Modern-Variant",
+  "author": {
+    "name": "Uniarts",
+    "email": "jokke.heikkila@uniarts.fi",
+    "url": "http://www.uniarts.fi"
+  },
+  "relatedPackages": {}
 }
